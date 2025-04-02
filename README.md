@@ -11,7 +11,7 @@ FastToDo es una API RESTful desarrollada con **FastAPI** que permite gestionar t
 ## 📂 Instalación y Configuración
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/FastToDo.git
+git clone https://github.com/lfhernandez03/FastToDo.git
 cd FastToDo
 ```
 
