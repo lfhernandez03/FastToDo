@@ -12,4 +12,4 @@ app.include_router(tareas_router)
 
 @app.get("/")
 def read_root():
-    return {"message": "¡Bienvenido a FastToDo!"}
+    return {"message": "¡Bienvenido a FastToDo!, accede a /docs para ver la documentación de la API."}

@@ -52,11 +52,8 @@ La API estará disponible en: `http://127.0.0.1:8000`
 - **ReDoc:** [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
 ## 📡 Despliegue en la Nube
-Puedes desplegar esta API en servicios gratuitos como:
-- Render
-- Railway
-- Google Cloud Run
-- Azure App Service
+
+- ☁️ La API está desplegada en: `https://fasttodo-51pa.onrender.com`
 
 ## 🔧 Mejoras Futuras
 - ✅ Autenticación con JWT.
